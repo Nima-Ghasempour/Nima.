@@ -1,0 +1,17 @@
+C:\Users\scc\source\repos\term3\term3\bin\Debug\net6.0-windows\term3.exe
+C:\Users\scc\source\repos\term3\term3\bin\Debug\net6.0-windows\term3.deps.json
+C:\Users\scc\source\repos\term3\term3\bin\Debug\net6.0-windows\term3.runtimeconfig.json
+C:\Users\scc\source\repos\term3\term3\bin\Debug\net6.0-windows\term3.dll
+C:\Users\scc\source\repos\term3\term3\bin\Debug\net6.0-windows\ref\term3.dll
+C:\Users\scc\source\repos\term3\term3\bin\Debug\net6.0-windows\term3.pdb
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.csproj.AssemblyReference.cache
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.Form1.resources
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.csproj.GenerateResource.cache
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.AssemblyInfoInputs.cache
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.AssemblyInfo.cs
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.csproj.CoreCompileInputs.cache
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.dll
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\ref\term3.dll
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.pdb
+C:\Users\scc\source\repos\term3\term3\obj\Debug\net6.0-windows\term3.genruntimeconfig.cache
